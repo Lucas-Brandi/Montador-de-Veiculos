@@ -1,8 +1,8 @@
 package enums;
 
-enum Combustivel {
+public enum Combustivel {
     GASOLINA,
     ALCOOL,
     DIESEL,
-    CarregamentoPorCabo,
+    ELETRICO,
 }
